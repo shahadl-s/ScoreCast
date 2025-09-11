@@ -1,4 +1,4 @@
-# ScoreCast :football: :trophy:
+# ScoreCast ⚽ :trophy:
 
 
 ## Motivations :
